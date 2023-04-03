@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HlebBzhezouski
 - 👀 I’m QA Engineer
-- 🌱 I’m currently learning Java
 
 <!---
 HlebBzhezouski/HlebBzhezouski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
